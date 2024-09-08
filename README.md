@@ -1,7 +1,7 @@
 <div align="center">
-    <h1> IMDb Web Scraper Project</h1>
+    <h1>IMDB Website Scraper</h1>
 
-<img src="https://github.com/user-attachments/assets/2fb24fe1-a77f-457b-a98d-a7c83fb780f4" />
+<img src="https://github.com/user-attachments/assets/b5ff4583-de21-4776-a744-7209aab9240d" />
     
   <div align="center">
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
@@ -9,7 +9,7 @@
       <a href="#"><img alt="Requests" src="https://img.shields.io/badge/Requests-FF6F00?style=for-the-badge&logo=requests&logoColor=white"></a>
   </div>
 
-  <h3>Rastreador de Dados do IMDb</h3>
+  <h3>Web Scraping Top 250 do IMDb</h3>
 
   <p>O projeto envolve a criação de um web scraper para extrair informações sobre os filmes listados no Top 250 do IMDb. Utilizando BeautifulSoup e Requests, o scraper coleta dados como título, ano de lançamento, duração, e classificação dos filmes.</p>
 </div>
