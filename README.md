@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Amazon Web Scraper Project</h1>
+    <h1> IMDb Web Scraper Project</h1>
     
   <div align="center">
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
