@@ -1,5 +1,7 @@
 <div align="center">
     <h1> IMDb Web Scraper Project</h1>
+
+<img src="https://github.com/user-attachments/assets/2fb24fe1-a77f-457b-a98d-a7c83fb780f4" />
     
   <div align="center">
       <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
